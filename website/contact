@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>Contact GPUs Direct</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+    <body>
+        <div class="header">
+            <h1>GPUs Direct</h1>
+            <hr />
+            <ul class="navbar">
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+            <hr />
+        </div>
+        <div class="body">
+            <h2>Contact Us</h2>
+            <p class="cta highlight">Call: <a href="tel:+16506665436">1-650-666-5436</a></p>
+            <p class="cta highlight">Email: <a href="mailto:hello@gpusdirect.com">hello@gpusdirect.com</a></p>
+            <hr />
+            <p>&copy; 2017 GPUsDirect.com</p>
+        </div>
+    </body>
+</html>

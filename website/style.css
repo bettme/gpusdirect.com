@@ -1,0 +1,46 @@
+p {
+    max-width: 600px;
+}
+/* Inventory Table */
+.table-wrap {
+    overflow-x: scroll;
+}
+
+.table {
+    width: 900px;
+}
+
+.table tr:nth-child(even) {
+    background: #EEE;
+}
+
+table tr:nth-child(odd) {
+    background: #FFF;
+}
+.table td, .table th {
+    padding: 15px;
+}
+.table {
+    text-align: left;
+    min-width: 600px;
+    overflow: scroll;
+}
+.table tr {
+    min-width: 900px;
+}
+/* CTAs */
+.cta {
+    font-size: 32px;
+    padding: 20px;
+}
+.highlight {
+    background: yellow;
+}
+/* Navigation */
+.navbar {
+    padding: 0;
+}
+.navbar li {
+    margin-right: 2em;
+    display: inline;
+}

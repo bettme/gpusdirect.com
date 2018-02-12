@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>About GPUs Direct</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+    <body>
+        <div class="header">
+            <h1>GPUs Direct</h1>
+            <hr />
+            <ul class="navbar">
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+            <hr />
+        </div>
+        <div class="body">
+            <h2>About Us</h2>
+            <p>We focus on one thing: <span class="highlight">negotiating good deals on GPUs and passing that value on to you, our customers</span>. That's why we don't have a fancy website. That's why we only sell GPUs. That's why we have the best prices you'll find anywhere.</p>
+            <p></p>
+            <p class="cta">Contact sales an order:</p>
+            <p class="cta highlight">Call: <a href="tel:+16506665436">1-650-666-5436</a></p>
+            <p class="cta highlight">Email: <a href="mailto:sales@gpusdirect.com">sales@gpusdirect.com</a></p>
+            <hr />
+            <p>&copy; 2017 GPUsDirect.com</p>
+        </div>
+    </body>
+</html>

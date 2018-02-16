@@ -19,10 +19,13 @@
             <div class="table-wrap">
             <table class="table">
                 <tr><th>Model Number</th><th>Description</th><th>Quantity On Hand</th><th>Price</th><th></tH></tr>
-                <tr><td>TURBO-GTX1080TI-11G</td><td>ASUS 1080 Ti 11GB GPU Turbo</td><td>13</td><td>$943.33</td><td><a href="#">Call to Buy</a></tr>
-                <tr><td>VCGGTX1080T11-CG2</td><td>PNY 1080 Ti 11GB GPU</td><td>13</td><td>$893.75</td><td><a href="#">Call to Buy</a></tr>
-                <tr><td>GV-N108TTURBO-11GD</td><td>Gigabyte 1080 Ti 11GB GPU Turbo</td><td>13</td><td>$1068.75</td><td><a href="#">Call to Buy</a></tr>
-                <tr><td>ZT-P10810B-10B</td><td>Zotac 1080 Ti 11GB GPU Turbo</td><td>13</td><td>$957.21</td><td><a href="#">Call to Buy</a></tr>
+                <tr><td>TURBO-GTX1080TI-11G</td><td>ASUS 1080 Ti 11GB GPU Turbo</td><td>0</td><td>N/A</td><td><a href="tel:6506665436">Call to Buy</a></tr>
+                <tr><td>VCGGTX1080T11-CG2</td><td>PNY 1080 Ti 11GB GPU</td><td>0</td><td>N/A</td><td><a href="tel:6506665436">Call to Buy</a></tr>
+                <tr><td>GV-N108TTURBO-11GD</td><td>Gigabyte 1080 Ti 11GB GPU Turbo</td><td>0</td><td>N/A</td><td><a href="tel:6506665436">Call to Buy</a></tr>
+                <tr><td>ZT-P10810B-10B</td><td>Zotac 1080 Ti 11GB GPU Turbo</td><td>11</td><td>$1100.00</td><td><a href="tel:6506665436">Call to Buy</a></tr>
+                <tr><td>11G-P4-6390-KR</td><td>EVGA 1080 Ti 11GB GPU Founders</td><td>0</td><td>N/A</td><td><a href="tel:6506665436">Call to Buy</a></tr>
+                <tr><td>11G-P4-5390-KR</td><td>EVGA 1080 Ti 11GB GPU Blower</td><td>0</td><td>N/A</td><td><a href="tel:6506665436">Call to Buy</a></tr>
+                <tr><td>GTX 1080 TI AERO 11G OC</td><td>MSI 1080 Ti 11GB GPU Aero</td><td>0</td><td>N/A</td><td><a href="tel:6506665436">Call to Buy</a></tr>
                 </tr>
             </table>
             </div>
